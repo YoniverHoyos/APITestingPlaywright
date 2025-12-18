@@ -17,6 +17,7 @@ Considere como SUT la API https://openweathermap.org/current la cual emite infor
 * Obtener la información del clima en formato XML
 
 Es importante recalcar que el ejercicio 1 no se pudo realizar debido a que la plataforma API https://reqres.in/api-docs/ no funciono de la manera esperada obteniendo la respuesta que se observa en la imagen:
+
 <img width="700" height="416" alt="image" src="https://github.com/user-attachments/assets/f3ed909b-d8ba-4721-8685-f1b27ce1b50d" />
 
 # Prerequisitos
@@ -35,3 +36,6 @@ Por medio de Visual Studio Code abrir una nueva terminal. Luego realizar la conf
 
 # Ejecución del repositorio
 Para la ejecución del repositorio se utiliza el comando npm run cucumber, por medio del cual se ejecutan los archivos .feature y se generan los reportes dentro de la carpeta reports del proyecto. Estos reportes son generados en formato .json y .html, permitiendo verificar la ejecución de los casos de prueba desarrollados.
+
+<img width="700" height="432" alt="image" src="https://github.com/user-attachments/assets/16099e0a-211c-48b5-956c-724282781fce" />
+
