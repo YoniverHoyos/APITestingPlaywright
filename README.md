@@ -23,7 +23,7 @@ Es importante recalcar que el ejercicio 1 no se pudo realizar debido a que la pl
 Para la ejecucion del repositorio es necesario cumplir estos prerequisitos
 * Node.js
 * Visual Studio Code e instalar las extenciones: Cucumber Playwright
-Antes de la configuración del proyecto es necesario clonar este repositorio dentro de un nuevo directorio. 
+* Antes de la configuración del proyecto es necesario clonar este repositorio dentro de un nuevo directorio. 
 
 # Configuración del proyecto
 Por medio de Visual Studio Code abrir una nueva terminal. Luego realizar la configuración del proyecto con los siguientes comandos:
