@@ -1,7 +1,7 @@
 # APITestingPlaywright
 This repository contains two .feature files that cover two coding exercises in API testing using Playwright and Cucumber:
 
-##Pet Store Exercise:
+## Pet Store Exercise:
 Consider the API https://petstore.swagger.io/ as the SUT, which is a service designed to manage a pet store. Implement the test cases associated with the following functionalities:
 
 * View a purchase order
@@ -9,7 +9,7 @@ Consider the API https://petstore.swagger.io/ as the SUT, which is a service des
 * Check sales inventory
 * Delete a purchase order
 
-##Weather Map Exercise:
+## Weather Map Exercise:
 Consider the API https://openweathermap.org/current as the SUT, which provides real-time weather information. Implement the test cases associated with the following functionalities:
 
 * Retrieve weather information by city name
